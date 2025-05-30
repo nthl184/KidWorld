@@ -1,0 +1,196 @@
+id,name_en,name_vi,region
+1,Afghanistan,,Unknown
+2,Albania,,Europe
+3,Algeria,,Africa
+4,Andorra,,Europe
+5,Angola,,Africa
+6,Antigua and Barbuda,,North America
+7,Argentina,,South America
+8,Armenia,,Asia
+9,Australia,Úc,Oceania
+10,Austria,Áo,Europe
+11,Azerbaijan,,Asia
+12,The Bahamas,,Unknown
+13,Bahrain,,Asia
+14,Bangladesh,,Asia
+15,Barbados,,North America
+16,Belarus,,Europe
+17,Belgium,B?,Europe
+18,Belize,,North America
+19,Benin,,Africa
+20,Bhutan,,Asia
+21,Bolivia,,South America
+22,Bosnia and Herzegovina,,Europe
+23,Botswana,,Africa
+24,Brazil,,South America
+25,Brunei,,Unknown
+26,Bulgaria,,Europe
+27,Burkina Faso,,Africa
+28,Burundi,,Africa
+29,Cambodia,Campuchia,Asia
+30,Cameroon,,Africa
+31,Canada,,North America
+32,Cape Verde,,Unknown
+33,Central African Republic,C?ng hòa Trung Phi,Africa
+34,Chad,,Africa
+35,Chile,,South America
+36,China,Trung Qu?c,Asia
+37,Colombia,,South America
+38,Comoros,,Africa
+39,Democratic Republic of the Congo,C?ng hòa Dân ch? Congo,Unknown
+40,Republic of the Congo,C?ng hòa Congo,Africa
+41,Costa Rica,,North America
+42,Croatia,,Europe
+43,Cuba,,North America
+44,Cyprus,Síp,Asia
+45,Czech Republic,C?ng hòa Séc,Europe
+46,Denmark,?an M?ch,Unknown
+47,Djibouti,,Africa
+48,Dominica,,North America
+49,Dominican Republic,C?ng hòa Dominica,North America
+50,Ecuador,,South America
+51,Egypt,Ai C?p,Africa
+52,El Salvador,,North America
+53,Equatorial Guinea,,Africa
+54,Eritrea,,Africa
+55,Estonia,,Europe
+56,Eswatini,,Africa
+57,Ethiopia,,Africa
+58,Fiji,,Oceania
+59,Finland,Ph?n Lan,Europe
+60,France,Pháp,Europe
+61,Gabon,,Africa
+62,The Gambia,,Unknown
+63,Georgia,,Asia
+64,Germany,??c,Europe
+65,Ghana,,Africa
+66,Greece,Hy L?p,Europe
+67,Grenada,,North America
+68,Guatemala,,North America
+69,Guinea,,Africa
+70,Guinea-Bissau,,Africa
+71,Guyana,,South America
+72,Haiti,,North America
+73,Honduras,,North America
+74,Hungary,,Europe
+75,Iceland,,Europe
+76,India,?n ??,Asia
+77,Indonesia,,Asia
+78,Iran,,Asia
+79,Iraq,,Asia
+80,Ireland,,Europe
+81,Israel,,Asia
+82,Italy,Ý,Europe
+83,Ivory Coast,B? Bi?n Ngà,Unknown
+84,Jamaica,,North America
+85,Japan,Nh?t B?n,Asia
+86,Jordan,,Asia
+87,Kazakhstan,,Asia
+88,Kenya,,Africa
+89,Kiribati,,Oceania
+90,Kuwait,,Asia
+91,Kyrgyzstan,,Asia
+92,Laos,Lào,Asia
+93,Latvia,,Europe
+94,Lebanon,,Asia
+95,Lesotho,,Africa
+96,Liberia,,Africa
+97,Libya,,Africa
+98,Liechtenstein,,Europe
+99,Lithuania,,Europe
+100,Luxembourg,,Europe
+101,Madagascar,,Africa
+102,Malawi,,Africa
+103,Malaysia,,Asia
+104,Maldives,,Asia
+105,Mali,,Africa
+106,Malta,,Europe
+107,Marshall Islands,Qu?n ??o Marshall,Oceania
+108,Mauritania,,Africa
+109,Mauritius,,Africa
+110,Mexico,,North America
+111,Micronesia,,Unknown
+112,Moldova,,Europe
+113,Monaco,,Europe
+114,Mongolia,Mông C?,Asia
+115,Montenegro,,Europe
+116,Morocco,Ma-r?c,Africa
+117,Mozambique,,Africa
+118,Myanmar,,Asia
+119,Namibia,,Africa
+120,Nauru,,Oceania
+121,Nepal,,Asia
+122,Netherlands,Hà Lan,Europe
+123,New Zealand,,Oceania
+124,Nicaragua,,North America
+125,Niger,,Africa
+126,Nigeria,,Africa
+127,North Korea,B?c Tri?u Tiên,Asia
+128,North Macedonia,B?c Macedonia,Europe
+129,Norway,Na Uy,Europe
+130,Oman,,Asia
+131,Pakistan,,Asia
+132,Palau,,Oceania
+133,Palestine,,Unknown
+134,Panama,,North America
+135,Papua New Guinea,,Oceania
+136,Paraguay,,South America
+137,Peru,,South America
+138,Philippines,,Asia
+139,Poland,Ba Lan,Europe
+140,Portugal,B? ?ào Nha,Europe
+141,Qatar,,Asia
+142,Romania,,Europe
+143,Russia,Nga,Unknown
+144,Rwanda,,Africa
+145,Saint Kitts and Nevis,,North America
+146,Saint Lucia,,North America
+147,Saint Vincent and the Grenadines,,North America
+148,Samoa,,Oceania
+149,San Marino,,Europe
+150,São Tomé and Príncipe,,Unknown
+151,Saudi Arabia,?-R?p Xê-út,Asia
+152,Senegal,,Africa
+153,Serbia,,Europe
+154,Seychelles,,Africa
+155,Sierra Leone,,Africa
+156,Singapore,,Asia
+157,Slovakia,,Europe
+158,Slovenia,,Europe
+159,Solomon Islands,Qu?n ??o Solomon,Oceania
+160,Somalia,,Africa
+161,South Africa,Nam Phi,Africa
+162,South Korea,Hàn Qu?c,Asia
+163,South Sudan,Nam Sudan,Africa
+164,Spain,Tây Ban Nha,Europe
+165,Sri Lanka,,Asia
+166,Sudan,,Africa
+167,Suriname,,South America
+168,Sweden,Th?y ?i?n,Europe
+169,Switzerland,Th?y S?,Europe
+170,Syria,,Unknown
+171,Tajikistan,,Asia
+172,Tanzania,,Africa
+173,Thailand,Thái Lan,Asia
+174,Timor-Leste,,Unknown
+175,Togo,,Africa
+176,Tonga,,Oceania
+177,Trinidad and Tobago,,North America
+178,Tunisia,,Africa
+179,Turkey,Th? Nh? K?,Unknown
+180,Turkmenistan,,Asia
+181,Tuvalu,,Oceania
+182,Uganda,,Africa
+183,Ukraine,,Europe
+184,United Arab Emirates,Các Ti?u V??ng qu?c ? R?p Th?ng nh?t,Asia
+185,United Kingdom,V??ng qu?c Anh,Europe
+186,United States,Hoa K?,North America
+187,Uruguay,,South America
+188,Uzbekistan,,Asia
+189,Vanuatu,,Oceania
+190,Vatican City,,Unknown
+191,Venezuela,,South America
+192,Vietnam,Vi?t Nam,Asia
+193,Yemen,Yêmen,Asia
+194,Zambia,,Africa
+195,Zimbabwe,,Africa

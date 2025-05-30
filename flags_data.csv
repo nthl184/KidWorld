@@ -1,0 +1,196 @@
+id,name_en,name_vi,flag,region
+1,Afghanistan,,/images/afghanistan.png,Unknown
+2,Albania,,/images/albania.png,Europe
+3,Algeria,,/images/algeria.png,Africa
+4,Andorra,,/images/andorra.png,Europe
+5,Angola,,/images/angola.png,Africa
+6,Antigua and Barbuda,,/images/antigua_and_barbuda.png,North America
+7,Argentina,,/images/argentina.png,South America
+8,Armenia,,/images/armenia.png,Asia
+9,Australia,Úc,/images/australia.png,Oceania
+10,Austria,Áo,/images/austria.png,Europe
+11,Azerbaijan,,/images/azerbaijan.png,Asia
+12,The Bahamas,,/images/the_bahamas.png,Unknown
+13,Bahrain,,/images/bahrain.png,Asia
+14,Bangladesh,,/images/bangladesh.png,Asia
+15,Barbados,,/images/barbados.png,North America
+16,Belarus,,/images/belarus.png,Europe
+17,Belgium,B?,/images/belgium.png,Europe
+18,Belize,,/images/belize.png,North America
+19,Benin,,/images/benin.png,Africa
+20,Bhutan,,/images/bhutan.png,Asia
+21,Bolivia,,/images/bolivia.png,South America
+22,Bosnia and Herzegovina,,/images/bosnia_and_herzegovina.png,Europe
+23,Botswana,,/images/botswana.png,Africa
+24,Brazil,,/images/brazil.png,South America
+25,Brunei,,/images/brunei.png,Unknown
+26,Bulgaria,,/images/bulgaria.png,Europe
+27,Burkina Faso,,/images/burkina_faso.png,Africa
+28,Burundi,,/images/burundi.png,Africa
+29,Cambodia,Campuchia,/images/cambodia.png,Asia
+30,Cameroon,,/images/cameroon.png,Africa
+31,Canada,,/images/canada.png,North America
+32,Cape Verde,,/images/cape_verde.png,Unknown
+33,Central African Republic,C?ng hòa Trung Phi,/images/central_african_republic.png,Africa
+34,Chad,,/images/chad.png,Africa
+35,Chile,,/images/chile.png,South America
+36,China,Trung Qu?c,/images/china.png,Asia
+37,Colombia,,/images/colombia.png,South America
+38,Comoros,,/images/comoros.png,Africa
+39,Democratic Republic of the Congo,C?ng hòa Dân ch? Congo,/images/democratic_republic_of_the_congo.png,Unknown
+40,Republic of the Congo,C?ng hòa Congo,/images/republic_of_the_congo.png,Africa
+41,Costa Rica,,/images/costa_rica.png,North America
+42,Croatia,,/images/croatia.png,Europe
+43,Cuba,,/images/cuba.png,North America
+44,Cyprus,Síp,/images/cyprus.png,Asia
+45,Czech Republic,C?ng hòa Séc,/images/czech_republic.png,Europe
+46,Denmark,?an M?ch,/images/denmark[i].png,Unknown
+47,Djibouti,,/images/djibouti.png,Africa
+48,Dominica,,/images/dominica.png,North America
+49,Dominican Republic,C?ng hòa Dominica,/images/dominican_republic.png,North America
+50,Ecuador,,/images/ecuador.png,South America
+51,Egypt,Ai C?p,/images/egypt.png,Africa
+52,El Salvador,,/images/el_salvador.png,North America
+53,Equatorial Guinea,,/images/equatorial_guinea.png,Africa
+54,Eritrea,,/images/eritrea.png,Africa
+55,Estonia,,/images/estonia.png,Europe
+56,Eswatini,,/images/eswatini.png,Africa
+57,Ethiopia,,/images/ethiopia.png,Africa
+58,Fiji,,/images/fiji.png,Oceania
+59,Finland,Ph?n Lan,/images/finland.png,Europe
+60,France,Pháp,/images/france.png,Europe
+61,Gabon,,/images/gabon.png,Africa
+62,The Gambia,,/images/the_gambia.png,Unknown
+63,Georgia,,/images/georgia.png,Asia
+64,Germany,??c,/images/germany.png,Europe
+65,Ghana,,/images/ghana.png,Africa
+66,Greece,Hy L?p,/images/greece.png,Europe
+67,Grenada,,/images/grenada.png,North America
+68,Guatemala,,/images/guatemala.png,North America
+69,Guinea,,/images/guinea.png,Africa
+70,Guinea-Bissau,,/images/guinea-bissau.png,Africa
+71,Guyana,,/images/guyana.png,South America
+72,Haiti,,/images/haiti.png,North America
+73,Honduras,,/images/honduras.png,North America
+74,Hungary,,/images/hungary.png,Europe
+75,Iceland,,/images/iceland.png,Europe
+76,India,?n ??,/images/india.png,Asia
+77,Indonesia,,/images/indonesia.png,Asia
+78,Iran,,/images/iran.png,Asia
+79,Iraq,,/images/iraq.png,Asia
+80,Ireland,,/images/ireland.png,Europe
+81,Israel,,/images/israel.png,Asia
+82,Italy,Ý,/images/italy.png,Europe
+83,Ivory Coast,B? Bi?n Ngà,/images/ivory_coast.png,Unknown
+84,Jamaica,,/images/jamaica.png,North America
+85,Japan,Nh?t B?n,/images/japan.png,Asia
+86,Jordan,,/images/jordan.png,Asia
+87,Kazakhstan,,/images/kazakhstan.png,Asia
+88,Kenya,,/images/kenya.png,Africa
+89,Kiribati,,/images/kiribati.png,Oceania
+90,Kuwait,,/images/kuwait.png,Asia
+91,Kyrgyzstan,,/images/kyrgyzstan.png,Asia
+92,Laos,Lào,/images/laos.png,Asia
+93,Latvia,,/images/latvia.png,Europe
+94,Lebanon,,/images/lebanon.png,Asia
+95,Lesotho,,/images/lesotho.png,Africa
+96,Liberia,,/images/liberia.png,Africa
+97,Libya,,/images/libya.png,Africa
+98,Liechtenstein,,/images/liechtenstein.png,Europe
+99,Lithuania,,/images/lithuania.png,Europe
+100,Luxembourg,,/images/luxembourg.png,Europe
+101,Madagascar,,/images/madagascar.png,Africa
+102,Malawi,,/images/malawi.png,Africa
+103,Malaysia,,/images/malaysia.png,Asia
+104,Maldives,,/images/maldives.png,Asia
+105,Mali,,/images/mali.png,Africa
+106,Malta,,/images/malta.png,Europe
+107,Marshall Islands,Qu?n ??o Marshall,/images/marshall_islands.png,Oceania
+108,Mauritania,,/images/mauritania.png,Africa
+109,Mauritius,,/images/mauritius.png,Africa
+110,Mexico,,/images/mexico.png,North America
+111,Micronesia,,/images/micronesia.png,Unknown
+112,Moldova,,/images/moldova.png,Europe
+113,Monaco,,/images/monaco.png,Europe
+114,Mongolia,Mông C?,/images/mongolia.png,Asia
+115,Montenegro,,/images/montenegro.png,Europe
+116,Morocco,Ma-r?c,/images/morocco.png,Africa
+117,Mozambique,,/images/mozambique.png,Africa
+118,Myanmar,,/images/myanmar.png,Asia
+119,Namibia,,/images/namibia.png,Africa
+120,Nauru,,/images/nauru.png,Oceania
+121,Nepal,,/images/nepal.png,Asia
+122,Netherlands,Hà Lan,/images/netherlands.png,Europe
+123,New Zealand,,/images/new_zealand.png,Oceania
+124,Nicaragua,,/images/nicaragua.png,North America
+125,Niger,,/images/niger.png,Africa
+126,Nigeria,,/images/nigeria.png,Africa
+127,North Korea,B?c Tri?u Tiên,/images/north_korea.png,Asia
+128,North Macedonia,B?c Macedonia,/images/north_macedonia.png,Europe
+129,Norway,Na Uy,/images/norway.png,Europe
+130,Oman,,/images/oman.png,Asia
+131,Pakistan,,/images/pakistan.png,Asia
+132,Palau,,/images/palau.png,Oceania
+133,Palestine,,/images/palestine.png,Unknown
+134,Panama,,/images/panama.png,North America
+135,Papua New Guinea,,/images/papua_new_guinea.png,Oceania
+136,Paraguay,,/images/paraguay.png,South America
+137,Peru,,/images/peru.png,South America
+138,Philippines,,/images/philippines.png,Asia
+139,Poland,Ba Lan,/images/poland.png,Europe
+140,Portugal,B? ?ào Nha,/images/portugal.png,Europe
+141,Qatar,,/images/qatar.png,Asia
+142,Romania,,/images/romania.png,Europe
+143,Russia,Nga,/images/russia.png,Unknown
+144,Rwanda,,/images/rwanda.png,Africa
+145,Saint Kitts and Nevis,,/images/saint_kitts_and_nevis.png,North America
+146,Saint Lucia,,/images/saint_lucia.png,North America
+147,Saint Vincent and the Grenadines,,/images/saint_vincent_and_the_grenadines.png,North America
+148,Samoa,,/images/samoa.png,Oceania
+149,San Marino,,/images/san_marino.png,Europe
+150,São Tomé and Príncipe,,/images/São Tomé and Príncipe.png,Unknown
+151,Saudi Arabia,?-R?p Xê-út,/images/saudi_arabia.png,Asia
+152,Senegal,,/images/senegal.png,Africa
+153,Serbia,,/images/serbia.png,Europe
+154,Seychelles,,/images/seychelles.png,Africa
+155,Sierra Leone,,/images/sierra_leone.png,Africa
+156,Singapore,,/images/singapore.png,Asia
+157,Slovakia,,/images/slovakia.png,Europe
+158,Slovenia,,/images/slovenia.png,Europe
+159,Solomon Islands,Qu?n ??o Solomon,/images/solomon_islands.png,Oceania
+160,Somalia,,/images/somalia.png,Africa
+161,South Africa,Nam Phi,/images/south_africa.png,Africa
+162,South Korea,Hàn Qu?c,/images/south_korea.png,Asia
+163,South Sudan,Nam Sudan,/images/south_sudan.png,Africa
+164,Spain,Tây Ban Nha,/images/spain.png,Europe
+165,Sri Lanka,,/images/sri_lanka.png,Asia
+166,Sudan,,/images/sudan.png,Africa
+167,Suriname,,/images/suriname.png,South America
+168,Sweden,Th?y ?i?n,/images/sweden.png,Europe
+169,Switzerland,Th?y S?,/images/switzerland.png,Europe
+170,Syria,,/images/syria[z].png,Unknown
+171,Tajikistan,,/images/tajikistan.png,Asia
+172,Tanzania,,/images/tanzania.png,Africa
+173,Thailand,Thái Lan,/images/thailand.png,Asia
+174,Timor-Leste,,/images/timor-leste.png,Unknown
+175,Togo,,/images/togo.png,Africa
+176,Tonga,,/images/tonga.png,Oceania
+177,Trinidad and Tobago,,/images/trinidad_and_tobago.png,North America
+178,Tunisia,,/images/tunisia.png,Africa
+179,Turkey,Th? Nh? K?,/images/turkey.png,Unknown
+180,Turkmenistan,,/images/turkmenistan.png,Asia
+181,Tuvalu,,/images/tuvalu.png,Oceania
+182,Uganda,,/images/uganda.png,Africa
+183,Ukraine,,/images/ukraine.png,Europe
+184,United Arab Emirates,Các Ti?u V??ng qu?c ? R?p Th?ng nh?t,/images/united_arab_emirates.png,Asia
+185,United Kingdom,V??ng qu?c Anh,/images/united_kingdom.png,Europe
+186,United States,Hoa K?,/images/united_states.png,North America
+187,Uruguay,,/images/uruguay.png,South America
+188,Uzbekistan,,/images/uzbekistan.png,Asia
+189,Vanuatu,,/images/vanuatu.png,Oceania
+190,Vatican City,,/images/vatican_city.png,Unknown
+191,Venezuela,,/images/venezuela.png,South America
+192,Vietnam,Vi?t Nam,/images/vietnam.png,Asia
+193,Yemen,Yêmen,/images/yemen.png,Asia
+194,Zambia,,/images/zambia.png,Africa
+195,Zimbabwe,,/images/zimbabwe.png,Africa
